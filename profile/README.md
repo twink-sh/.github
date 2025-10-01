@@ -106,5 +106,3 @@ If you find a security issue, please contact the maintainers privately first. Do
 ## License
 
 See individual repositories for license terms. **but** we strive to keep everything as opensource as we can.
-
-```
