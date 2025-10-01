@@ -2,7 +2,7 @@
 
 > EARLY planning & PoC phase. Do NOT use.
 
-Infrastructure for self-serve domains and routing. The goal is to make user-scoped subdomains, DNS, HTTP(S) routing, and small utilities like URL shortening programmable from TypeScript.
+Infrastructure for self-serve domains and routing. The goal is to make user-scoped subdomains, authorative DNS, HTTP(S) routing & proxying, and small utilities like URL shortening + more  programmable from TypeScript. - Not just a programmable framework, we aim to be deployable to any server and handle everything from serving DNS, proxying routes & much more :D
 
 This org is early stage and under active development. Expect changes. (and nothing to work - yet)
 
